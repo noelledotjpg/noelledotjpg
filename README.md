@@ -1,4 +1,4 @@
-<h2 align="left">Heya. I'm Nöelle, a newbie developer from Brazil.</h2>
+<h2 align="left">Heya. I'm Nikolai, a newbie developer from Brazil.</h2>
 
 ###
 
